@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\vesel\Desktop\Project3\Project3\Source.cpp(76,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vesel\Desktop\Project3\Project3\Source.cpp(98,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vesel\Desktop\Project3\Project3\Source.cpp(111,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\vesel\Desktop\Project3\x64\Debug\Project3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
